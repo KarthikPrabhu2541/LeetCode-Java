@@ -1,13 +1,16 @@
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {
-        int n=nums.length;
-        ArrayList<Integer> l=new ArrayList<>();
-        for(int x:nums)
-            l.add(x);
-        Collections.sort(l);
-        int[] num=new int[n];
-        for(int i=0;i<n;i++)
-            num[i]=l.indexOf(nums[i]);
-        return num;
+        int arr[] = new int[nums.length];
+       for(int i = 0 ; i< nums.length; i++){
+           int count =0 ;
+           for(int j = 0;j < nums.length; j++){
+               
+               if(nums[i]>nums[j] && j!=i ){
+                   count++;
+               }
+             }
+          arr[i]= count;
+       }
+       return arr;
     }
 }
