@@ -5,6 +5,7 @@ class Solution {
         a[0]=first;
         for(int i=0;i<n;i++)
             a[i+1]=a[i] ^ encoded[i];
+        System.gc();
         return a;
     }
 }
