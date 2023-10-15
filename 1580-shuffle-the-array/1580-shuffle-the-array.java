@@ -8,6 +8,7 @@ class Solution {
             a[k++]=nums[i];
             a[k++]=nums[i+n];
         }
+        System.gc();
         return a;
     }
 }
