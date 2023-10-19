@@ -3,17 +3,12 @@ class Solution {
         int n=nums1.length;
         int m=nums2.length;
         int a[]=new int[n];
-        for(int i=0;i<n;i++)
-        {
+        for(int i=0;i<n;i++){
             a[i]=-1;
-            int x=nums1[i];
-            for(int j=0;j<m;j++)
-            {
-                int y=nums2[j];
-                if(x==y)
-                {
+            for(int j=0;j<m;j++){
+                if(nums1[i]==nums2[j]){
                     int k=j+1;
-                    while(k<m && nums2[k]<=y)
+                    while(k<m && nums2[k]<=nums2[j])
                         k++;
                     if(k<m)
                         a[i]=nums2[k--];
