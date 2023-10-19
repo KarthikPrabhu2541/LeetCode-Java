@@ -13,11 +13,8 @@ class Solution {
                 if(x==y)
                 {
                     int k=j+1;
-                    
                     while(k<m && nums2[k]<=y)
-                    {
                         k++;
-                    }
                     if(k<m)
                         a[i]=nums2[k--];
                     break;
