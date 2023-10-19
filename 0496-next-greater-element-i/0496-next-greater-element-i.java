@@ -11,7 +11,7 @@ class Solution {
                     while(k<m && nums2[k]<=nums2[j])
                         k++;
                     if(k<m)
-                        a[i]=nums2[k--];
+                        a[i]=nums2[k];
                     break;
                 }
             }
