@@ -6,10 +6,7 @@ class Solution {
         {
             if(count==0)
                 num=nums[i];
-            if(nums[i]==num)
-                count++;
-            else 
-                count--;
+            count=(nums[i]==num)?count+1:count-1;
         }
         return num;
     }
