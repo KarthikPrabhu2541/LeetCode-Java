@@ -1,8 +1,9 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
-        String str=s+s;
+        StringBuilder str=new StringBuilder();
+        str.append(s).append(s);
         if(s.length()!=goal.length())
             return false;
-        return (str.indexOf(goal)>=0);
+        return (str.toString().indexOf(goal)>=0);
     }
 }
