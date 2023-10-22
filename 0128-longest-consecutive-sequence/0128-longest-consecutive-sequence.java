@@ -1,7 +1,9 @@
 class Solution {
   public int longestConsecutive(int[] nums) {
     int ans = 0;
-    Set<Integer> seen = Arrays.stream(nums).boxed().collect(Collectors.toSet());
+    Set<Integer> seen = new HashSet<>();
+    for(int i:nums)
+        seen.add(i);
 
     for (int num : nums) {
       // Num is the start of a sequence
