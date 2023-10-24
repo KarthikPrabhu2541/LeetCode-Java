@@ -14,34 +14,20 @@
  * }
  */
 class Solution {
+    List<Integer> l=new ArrayList<>();
     public List<Integer> largestValues(TreeNode root) {
-        List<Integer> l=new ArrayList<>();
-        Stack<TreeNode> s=new Stack<>();
-        if(root==null)
-            return l;
-        int a=Integer.MIN_VALUE;
-        s.add(root);
-        while(!s.empty())
-        {
-            a=Integer.MIN_VALUE;
-            Stack<TreeNode> ss=new Stack<>();
-            while(!s.empty())
-            {
-                TreeNode n=s.pop();
-                if(n==null)
-                    continue;
-                a=Math.max(a,n.val);
-                TreeNode left=n.left;
-                if(left!=null)
-                    ss.add(left);
-                TreeNode right=n.right;
-                if(right!=null)
-                    ss.add(right);
-            }
-            l.add(a);
-            s.addAll(ss);
-            ss.clear();
-        }
+        maxlevel(root,0);
         return l;
+    }
+    void maxlevel(TreeNode root,int level)
+    {
+        if(root==null)
+            return;
+        if(l.size()>level)
+            l.set(level,Math.max(l.get(level),root.val));
+        else
+            l.add(root.val);
+        maxlevel(root.left,level+1);
+        maxlevel(root.right,level+1);
     }
 }
