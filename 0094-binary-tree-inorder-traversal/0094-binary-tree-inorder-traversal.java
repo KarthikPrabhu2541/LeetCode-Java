@@ -18,9 +18,11 @@ class Solution {
         if(root==null)
             return new ArrayList<>();
         List<Integer> l=new ArrayList<>();
-        l.addAll(inorderTraversal(root.left));
+        if(root.left!=null)
+            l.addAll(inorderTraversal(root.left));
         l.add(root.val);
-        l.addAll(inorderTraversal(root.right));
+        if(root.right!=null) 
+            l.addAll(inorderTraversal(root.right));
         return l;
     }
 }
