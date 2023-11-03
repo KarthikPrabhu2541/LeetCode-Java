@@ -8,9 +8,8 @@ class Solution {
                 s.add("Pop");
                 k++;
             }
-            if(k++==i){
+            if(k++==i)
                 s.add("Push");
-            }
         }
         return s;
     }
