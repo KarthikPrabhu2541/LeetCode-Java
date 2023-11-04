@@ -1,22 +1,27 @@
+//nt
 class Solution {
-    public int totalFruit(int[] fruits) {
-       HashMap<Integer,Integer> hm = new HashMap<>();
-        int i=0,j=0;
-        int total=0,count=0;
-        while(j<fruits.length){
-            hm.put(fruits[j],hm.getOrDefault(fruits[j],0)+1);
-            total +=1;
-            while(hm.size()>2){
-                int temp= hm.get(fruits[i]);
-                hm.put(fruits[i],--temp);
-                total-=1;
-                if(temp==0)hm.remove(fruits[i]);
-                i++;
+    public int totalFruit(int[] tree) {
+        int max = 0;
+        int curMax = 0;
+        int prev = -1;
+        int prev2 = -1;
+        int prevCount = 0;
 
+        for (int fruit: tree) {
+            if (fruit == prev || fruit == prev2) {
+                curMax++;
+            } else {
+                max = Math.max(max, curMax);
+                curMax = prevCount + 1;
             }
-            count = Math.max(count,total);
-            j++;
+            if (fruit == prev) {
+                prevCount++;
+            } else {
+                prevCount = 1;
+                prev2 = prev;
+                prev = fruit;
+            }
         }
-        return count;
+        return Math.max(max, curMax);
     }
 }
