@@ -1,16 +1,17 @@
 class Solution {
     public int countHomogenous(String s) {
-        char c[]=s.toCharArray();
-        int local=1;
-        int count=1;
-        int n=c.length;
-        for(int i=1;i<n;i++){
-            if(c[i-1]==c[i])
-                local++;
-            else
-                local=1;
-            count=(count+local)%((int)Math.pow(10,9)+7);
+        int left = 0;
+        long res = 0;
+        
+        for (int right = 0; right < s.length(); right++) {
+            if (s.charAt(left) == s.charAt(right)) {
+                res += right - left + 1;
+            } else {
+                res += 1;
+                left = right;
+            }
         }
-        return count;
+
+        return (int) (res % (1000000007));       
     }
 }
