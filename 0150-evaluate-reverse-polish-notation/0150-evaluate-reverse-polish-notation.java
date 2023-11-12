@@ -16,8 +16,7 @@ class Solution {
                 s.push(Integer.parseInt(tokens[i]));
             else{
                 int b=s.pop();
-                int a=s.pop();
-                s.push(operation(tokens[i].charAt(0),a,b));
+                s.push(operation(tokens[i].charAt(0),s.pop(),b));
             }
         }
         return s.pop();
