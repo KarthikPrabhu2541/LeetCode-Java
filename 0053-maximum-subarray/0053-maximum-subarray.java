@@ -5,7 +5,8 @@ class Solution {
         int n=nums.length;
         for(int i=0;i<n;i++){
             local+=nums[i];
-            global=Math.max(global,local);
+            if(global<local)
+                global=local;
             if(local<0)
                 local=0;
         }
