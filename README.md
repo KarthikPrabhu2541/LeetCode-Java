@@ -5,6 +5,7 @@ Leetcode problem solutions in java
 # Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1217-relative-sort-array) |
@@ -32,6 +33,7 @@ Leetcode problem solutions in java
 # Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
 | [1217-relative-sort-array](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
@@ -50,3 +52,7 @@ Leetcode problem solutions in java
 |  |
 | ------- |
 | [1450-delete-leaves-with-a-given-value](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1450-delete-leaves-with-a-given-value) |
+# Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
