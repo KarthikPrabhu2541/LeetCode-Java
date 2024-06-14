@@ -56,3 +56,7 @@ Leetcode problem solutions in java
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
+# String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/3379-score-of-a-string) |
