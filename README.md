@@ -5,6 +5,7 @@ Leetcode problem solutions in java
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Greedy
@@ -15,9 +16,14 @@ Leetcode problem solutions in java
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0075-sort-colors) |
