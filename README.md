@@ -33,6 +33,7 @@ Leetcode problem solutions in java
 | ------- |
 | [0075-sort-colors](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
 # Hash Table
 |  |
 | ------- |
@@ -72,3 +73,11 @@ Leetcode problem solutions in java
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0648-replace-words) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
