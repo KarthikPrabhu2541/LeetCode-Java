@@ -2,7 +2,7 @@
 Leetcode problem solutions in java
 
 
-# Array
+## Array
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
@@ -12,72 +12,72 @@ Leetcode problem solutions in java
 | [1044-find-common-characters](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
-# Greedy
+## Greedy
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
-# Sorting
+## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
-# Counting
+## Counting
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0982-minimum-increment-to-make-array-unique) |
-# Two Pointers
+## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
-# Hash Table
+## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0648-replace-words](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1217-relative-sort-array) |
-# Counting Sort
+## Counting Sort
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1217-relative-sort-array) |
-# Tree
+## Tree
 |  |
 | ------- |
 | [1450-delete-leaves-with-a-given-value](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1450-delete-leaves-with-a-given-value) |
-# Depth-First Search
+## Depth-First Search
 |  |
 | ------- |
 | [1450-delete-leaves-with-a-given-value](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1450-delete-leaves-with-a-given-value) |
-# Binary Tree
+## Binary Tree
 |  |
 | ------- |
 | [1450-delete-leaves-with-a-given-value](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1450-delete-leaves-with-a-given-value) |
-# Matrix
+## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
-# String
+## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0648-replace-words](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1044-find-common-characters) |
 | [3379-score-of-a-string](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/3379-score-of-a-string) |
-# Trie
+## Trie
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0648-replace-words) |
-# Math
+## Math
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
-# Binary Search
+## Binary Search
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
