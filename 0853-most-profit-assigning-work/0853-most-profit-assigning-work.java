@@ -1,36 +1,22 @@
 class Solution {
-    public void swap(int[] difficulty,int[] profit,int i,int j ){
-        int temp=difficulty[i];
-        difficulty[i]=difficulty[j];
-        difficulty[j]=temp;
-        temp=profit[i];
-        profit[i]=profit[j];
-        profit[j]=temp;
-    }
+   
     public int maxProfitAssignment(int[] difficulty, int[] profit, int[] worker) {
-        int n=worker.length;        
-        for(int i=1;i<n;i++)
-            for(int j=1;j<=n-i;j++)
-                if(profit[j]>profit[j-1])
-                    swap(difficulty,profit,j-1,j);
-        // for(int i:difficulty)
-        //     System.out.print(i+" ");
-        // System.out.println();
-        // for(int i:profit)
-        //     System.out.print(i+" ");
-        // System.out.println();
+        int m=worker.length;
+        int n=difficulty.length;
+        int maxDiff=0;
+        for(int i:difficulty)
+            maxDiff=Math.max(i,maxDiff);
+        int[] profs=new int[maxDiff+1];
+        for(int i=0;i<n;i++)
+            profs[difficulty[i]]=Math.max(profs[difficulty[i]],profit[i]);
+        for(int i=1;i<=maxDiff;i++)
+            profs[i]=Math.max(profs[i],profs[i-1]);
+        // for(int i=0;i<maxDiff+1;i++)
+        //     System.out.println(i+" "+profs[i]);
         int finalProfit=0;
-        for(int i=0;i<n;i++){
-            int j=0;
-            for(;j<n;j++){
-                if(difficulty[j]<=worker[i])
-                    break;
-            }
-            if(j!=n)
-            {
-                finalProfit+=profit[j];
-                // System.out.println(worker[i]+" "+profit[j]);
-            }
+        for(int i=0;i<m;i++){
+            int diff=Math.min(worker[i],maxDiff);
+            finalProfit+=profs[diff];
         }
         return finalProfit;
     }
