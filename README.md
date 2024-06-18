@@ -1,5 +1,10 @@
 # LeetCode-Java-
-Leetcode problem solutions in java
+Find Below 
+The One-Stop Solution to all your Leetcode problems
+Along with the time and space complexities
+Will be sure to add Short Explanations soon to each
+
+Synced with the help of LeetHub V2
 
 
 ## Array
