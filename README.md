@@ -1,10 +1,10 @@
 # LeetCode-Java
 Find Below 
 The One-Stop Solution to all your Leetcode problems
-Along with the time and space complexities
+Along with the time and space complexities    
 Will be sure to add Short Explanations soon to each
 
-Synced with the help of LeetHub V2
+Synced with the help of [LeetHub V2](https://chromewebstore.google.com/detail/mhanfgfagplhgemhjfeolkkdidbakocm?hl=en)
 
 
 ## Array
