@@ -1,4 +1,4 @@
-# LeetCode-Java-
+# LeetCode-Java
 Find Below 
 The One-Stop Solution to all your Leetcode problems
 Along with the time and space complexities
