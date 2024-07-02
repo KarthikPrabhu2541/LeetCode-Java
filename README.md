@@ -76,10 +76,7 @@ Synced with the help of [LeetHub V2](https://chromewebstore.google.com/detail/mh
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
-## Binary Search
-|  |
-| ------- |
-| [0633-sum-of-square-numbers](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
