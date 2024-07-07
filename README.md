@@ -7,16 +7,7 @@ Will be sure to add Short Explanations soon to each
 Synced with the help of [LeetHub V2](https://chromewebstore.google.com/detail/mhanfgfagplhgemhjfeolkkdidbakocm?hl=en)
 
 
-## Array
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
-| [0075-sort-colors](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0075-sort-colors) |
-| [0648-replace-words](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0648-replace-words) |
-| [0982-minimum-increment-to-make-array-unique](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0982-minimum-increment-to-make-array-unique) |
-| [1044-find-common-characters](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1044-find-common-characters) |
-| [1217-relative-sort-array](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1217-relative-sort-array) |
-| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+
 ## Greedy
 |  |
 | ------- |
