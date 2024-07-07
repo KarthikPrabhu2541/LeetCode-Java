@@ -72,10 +72,7 @@ Synced with the help of [LeetHub V2](https://chromewebstore.google.com/detail/mh
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0648-replace-words) |
-## Math
-|  |
-| ------- |
-| [0633-sum-of-square-numbers](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
+
 
 
 <!---LeetCode Topics Start-->
@@ -119,4 +116,13 @@ Synced with the help of [LeetHub V2](https://chromewebstore.google.com/detail/mh
 | [0982-minimum-increment-to-make-array-unique](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
+| [1642-water-bottles](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1642-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
