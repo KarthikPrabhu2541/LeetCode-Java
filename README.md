@@ -27,12 +27,7 @@ Synced with the help of [LeetHub V2](https://chromewebstore.google.com/detail/mh
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0982-minimum-increment-to-make-array-unique) |
-## Two Pointers
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0075-sort-colors) |
-| [0344-reverse-string](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0344-reverse-string) |
-| [0633-sum-of-square-numbers](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0633-sum-of-square-numbers) |
+
 ## Hash Table
 |  |
 | ------- |
