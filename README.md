@@ -33,10 +33,7 @@ Synced with the help of [LeetHub V2](https://chromewebstore.google.com/detail/mh
 |  |
 | ------- |
 | [1450-delete-leaves-with-a-given-value](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1450-delete-leaves-with-a-given-value) |
-## Binary Tree
-|  |
-| ------- |
-| [1450-delete-leaves-with-a-given-value](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1450-delete-leaves-with-a-given-value) |
+
 ## Matrix
 |  |
 | ------- |
@@ -66,6 +63,7 @@ Synced with the help of [LeetHub V2](https://chromewebstore.google.com/detail/mh
 | [0648-replace-words](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0648-replace-words) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1044-find-common-characters](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1044-find-common-characters) |
+| [1207-delete-nodes-and-return-forest](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Table
@@ -75,6 +73,7 @@ Synced with the help of [LeetHub V2](https://chromewebstore.google.com/detail/mh
 | [0350-intersection-of-two-arrays-ii](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1044-find-common-characters) |
+| [1207-delete-nodes-and-return-forest](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1217-relative-sort-array) |
 ## Two Pointers
 |  |
@@ -105,4 +104,19 @@ Synced with the help of [LeetHub V2](https://chromewebstore.google.com/detail/mh
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1642-water-bottles) |
+## Tree
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1207-delete-nodes-and-return-forest) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1450-delete-leaves-with-a-given-value) |
+## Depth-First Search
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1207-delete-nodes-and-return-forest) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1450-delete-leaves-with-a-given-value) |
+## Binary Tree
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1207-delete-nodes-and-return-forest) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1450-delete-leaves-with-a-given-value) |
 <!---LeetCode Topics End-->
