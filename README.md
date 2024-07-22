@@ -25,10 +25,7 @@ Synced with the help of [LeetHub V2](https://chromewebstore.google.com/detail/mh
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1217-relative-sort-array) |
-## Tree
-|  |
-| ------- |
-| [1450-delete-leaves-with-a-given-value](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1450-delete-leaves-with-a-given-value) |
+
 
 
 ## Matrix
