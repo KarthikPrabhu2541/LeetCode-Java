@@ -38,13 +38,7 @@ Synced with the help of [LeetHub V2](https://chromewebstore.google.com/detail/mh
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
-## String
-|  |
-| ------- |
-| [0344-reverse-string](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0344-reverse-string) |
-| [0648-replace-words](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0648-replace-words) |
-| [1044-find-common-characters](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1044-find-common-characters) |
-| [3379-score-of-a-string](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/3379-score-of-a-string) |
+
 ## Trie
 |  |
 | ------- |
@@ -66,6 +60,7 @@ Synced with the help of [LeetHub V2](https://chromewebstore.google.com/detail/mh
 | [1207-delete-nodes-and-return-forest](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2502-sort-the-people](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +70,7 @@ Synced with the help of [LeetHub V2](https://chromewebstore.google.com/detail/mh
 | [1044-find-common-characters](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1044-find-common-characters) |
 | [1207-delete-nodes-and-return-forest](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1217-relative-sort-array) |
+| [2502-sort-the-people](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +91,7 @@ Synced with the help of [LeetHub V2](https://chromewebstore.google.com/detail/mh
 | [0982-minimum-increment-to-make-array-unique](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2502-sort-the-people](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -119,4 +116,12 @@ Synced with the help of [LeetHub V2](https://chromewebstore.google.com/detail/mh
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1207-delete-nodes-and-return-forest) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1450-delete-leaves-with-a-given-value) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0344-reverse-string) |
+| [0648-replace-words](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0648-replace-words) |
+| [1044-find-common-characters](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1044-find-common-characters) |
+| [2502-sort-the-people](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/2502-sort-the-people) |
+| [3379-score-of-a-string](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
