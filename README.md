@@ -118,4 +118,8 @@ Synced with the help of [LeetHub V2](https://chromewebstore.google.com/detail/mh
 | [1044-find-common-characters](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/1044-find-common-characters) |
 | [2502-sort-the-people](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/3379-score-of-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/KarthikPrabhu2541/LeetCode-Java/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
