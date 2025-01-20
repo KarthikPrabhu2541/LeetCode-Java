@@ -26,9 +26,12 @@ class Solution {
         //     System.out.print(rightZeroes[i]+" ");
 
         int minFlips = Math.min(leftOnes[0]+rightZeroes[0], leftOnes[n+1]+rightZeroes[n+1]);
+        int one = 0;
         for(int i=1;i<=n;i++){
-                int one = (s.charAt(i-1)=='0')?1:0;
-                minFlips = Math.min(leftOnes[i]+rightZeroes[i]+one,minFlips);
+                if(i==1 && s.charAt(i-1)=='1' || i>1 && s.charAt(i-1)=='1' && s.charAt(i-2)=='0'){
+                    one = (s.charAt(i-1)=='0')?1:0;
+                    minFlips = Math.min(leftOnes[i]+rightZeroes[i]+one,minFlips);
+                }
         }
         return minFlips;
     }
