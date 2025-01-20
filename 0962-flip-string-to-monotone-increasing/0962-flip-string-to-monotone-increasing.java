@@ -19,6 +19,8 @@ class Solution {
         }
         alternate.add(current);
         int size = alternate.size();
+        Integer[] alternateArray = new Integer[size];
+        alternateArray = alternate.toArray(alternateArray);
         int minFlips = Integer.MAX_VALUE;
         if(size == 1 || size == 2){
             return 0;
@@ -29,13 +31,13 @@ class Solution {
         leftOnes[0]=0;
         leftOnes[1]=0;
         for(int i=2;i<arraySize;i++){
-            leftOnes[i]=alternate.get(2*(i-1)-1)+leftOnes[i-1];
+            leftOnes[i]=alternateArray[2*(i-1)-1]+leftOnes[i-1];
         }
         // for(int i=0;i<arraySize;i++)
         //     System.out.print(leftOnes[i]+" ");
         rightZeroes[arraySize-1]=0;
         for(int i=arraySize-2;i>=0;i-=1){
-            rightZeroes[i]=(size<=2*i)?0:alternate.get(2*i)+rightZeroes[i+1];
+            rightZeroes[i]=(size<=2*i)?0:alternateArray[2*i]+rightZeroes[i+1];
         }
         // for(int i=0;i<arraySize;i++)
         //     System.out.print(rightZeroes[i]+" ");
